@@ -1,5 +1,5 @@
-Today is my first day studying English with GitHub.
-It's more challenging than I expected, but also more enjoyable!
-By the way, I wanted to go to the gym as usual, but I gave up because it started raining.
-I wish it were closer, but it takes more than 15 minutes to walk there.
-I hope it's sunny tomorrow.
+I studied Docker today. There were some terms I didn't understand while studying, so I researched them as well.
+I realized there is still a lot to learn.
+In the evening, I joined a category theory meeting that I had been interested in for a while.
+It was a difficult topic for me but also interesting.
+So I'm also looking forward to the next meeting.
