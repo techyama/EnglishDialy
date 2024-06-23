@@ -1,4 +1,6 @@
-I went to the shopping mall to buy daily necessities and books.
-I bought some books where study for TOEIC.
-I looking forward to study hard to get a good score.
-I believe that I can do it.
+I tried to develop with TailwindCSS and React.js.
+Until now, I have learned how to use TailwindCSS and React.js to develop a simple web application.
+Problem occurred as soon as I started development.
+The style wasn't applied, and it took 3 hours to get it right.
+The solution was very simple, I just needed to reboot the frontend server.
+I said "Damn it!"
