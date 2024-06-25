@@ -1,4 +1,4 @@
-I started developing my portfolio for a job change.
-I needed to consider the application's structure.
-For example, what language　to use, how to structure the system, etc.
-I thought more about learn architecture.
+Today was a day filled with frustration, because Development didn't progress as expected.
+I tried to introduce husky for Git hooks setup, but it didn't work well.
+It tooks 3 hours. I was very tired.
+I hope to make more progress tomorrow.
