@@ -1,4 +1,4 @@
-Today was a day filled with frustration, because Development didn't progress as expected.
-I tried to introduce husky for Git hooks setup, but it didn't work well.
-It tooks 3 hours. I was very tired.
-I hope to make more progress tomorrow.
+Recently, I studying English for TOEIC.
+The immediate goal is to score 800 points or higher.
+I have made it a habit to learn 200 words at night and review them in the morning for that purpose.
+I'm able to study while enjoying myself.
